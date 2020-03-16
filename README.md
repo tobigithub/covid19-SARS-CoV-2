@@ -17,4 +17,4 @@ Death rates depend on age and country including rapid responses and health servi
 * COVID19 Live Interactive Dashboard (https://datastudio.google.com/embed/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB)  - currently up to 9% (age dependent)
 
 <B>Treatments and drugs available</B>  
-There are several drugs that are recommended by the CDC (US) that can be used for treatment of specific viral infectionns, for SARS and COVID they include remdesivir, lopinavir and ritonavir. However they do only work in specific cases and on specific straains.
+There are several drugs that are recommended by the CDC (US) that can be used for treatment of specific viral infectionns,  including SARS and COVID they include remdesivir, lopinavir and ritonavir. However they do only work in specific cases and  for specific strains.
