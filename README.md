@@ -31,7 +31,7 @@ There are a number of expermimental drugs and future drugs available such as DNA
 * CureVac (https://www.curevac.com/)
 
 <B>WHO responses</B> 
-WHO responses (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
+* WHO responses (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
 
 
 
