@@ -1,5 +1,5 @@
 # Covid19-SARS-CoV-2
-Covid-19 (SARS-CoV-2) coronavirus information
+Covid-19 (SARS-CoV-2) coronavirus information.
 
 <B>MAPS</B>  
 Maps show the global distrributions, infection rates, deat rates per country our county/provence
@@ -8,3 +8,4 @@ Maps show the global distrributions, infection rates, deat rates per country our
 * KVK 
 
 <B>Coronavirus Surface surivival time</B>  
+*  Wired article (https://www.wired.com/story/how-long-does-the-coronavirus-last-on-surfaces/) - card board, plastics and steel
