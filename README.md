@@ -12,4 +12,7 @@ How long does the coronavirus survive on air, plastics, steel and other surfaces
 *  Wired article (https://www.wired.com/story/how-long-does-the-coronavirus-last-on-surfaces/) - card board, plastics and steel [[PDF]](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf)
 
 <B>Death rates</B>  
-* COVID19 Live Interactive Dashboard [LINK](https://datastudio.google.com/embed/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB)
+Death rates depend on age and country including rapid responses and health service services provided.
+* COVID19 Live Interactive Dashboard [LINK](https://datastudio.google.com/embed/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB)  - currently up to 9% (age dependent)
+
+<B>Treatments and drugs available</B>  
