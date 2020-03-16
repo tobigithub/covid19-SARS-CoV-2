@@ -18,3 +18,7 @@ Death rates depend on age and country including rapid responses and health servi
 
 <B>Treatments and drugs available</B>  
 There are several drugs that are recommended by the CDC (US) that can be used for treatment of specific viral infectionns,  including SARS and COVID they include remdesivir, lopinavir and ritonavir. However they do only work in specific cases and  for specific strains.
+
+<B>Future drugs</B>  
+There are a number of expermimental drugs and future drugs available such as DNA based medication including INO-4800 and RNA based drugs such as mRNA-1273. 
+* 
