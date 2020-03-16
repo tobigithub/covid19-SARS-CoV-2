@@ -17,8 +17,12 @@ Death rates depend on age and country including rapid responses and health servi
 * COVID19 Live Interactive Dashboard (https://datastudio.google.com/embed/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB)  - currently up to 9% (age dependent)
 
 <B>Treatments and drugs available</B>  
-There are several drugs that are recommended by the CDC (US) that can be used for treatment of specific viral infectionns,  including SARS and COVID they include remdesivir, lopinavir and ritonavir. However they do only work in specific cases and  for specific strains.
+There are several drugs that are recommended by the CDC (US) that can be used for treatment of specific viral infectionns,  including SARS and COVID they include remdesivir, lopinavir and ritonavir. Other drugs include antiretorvirals such as Ribavirin. However they do only work in specific cases and  for specific strains.
+* Sciencemag aritcle on UC Davis Medical Center (Sacramento) treatment by Dr. George Thompson treating a patient sucesfully with  remdesivir intravenously administered (https://www.sciencemag.org/news/2020/03/did-experimental-drug-help-us-coronavirus-patient)
 
 <B>Future drugs</B>  
 There are a number of expermimental drugs and future drugs available such as DNA based medication including INO-4800 and RNA based drugs such as mRNA-1273. 
+
 * 
+<B>WHO responses</B> 
+WHO responses (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
