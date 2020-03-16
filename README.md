@@ -9,4 +9,4 @@ Maps show the global distrributions, infection rates, death rates per country ou
 
 <B>Coronavirus Surface surivival time</B>  
 How long does the coronavirus survive on air, plastics, steel and other surfaces
-*  Wired article (https://www.wired.com/story/how-long-does-the-coronavirus-last-on-surfaces/) - card board, plastics and steel
+*  Wired article (https://www.wired.com/story/how-long-does-the-coronavirus-last-on-surfaces/) - card board, plastics and steel [[PDF]](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf)
