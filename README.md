@@ -35,5 +35,14 @@ There are a number of expermimental drugs and future drugs available such as DNA
 <B>WHO responses</B> 
 * WHO responses (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
 
+<B>Drugs, targets and future therapeutics</B>
+* This is an excellent ACS CAS review (Chemical Abstracts Service) from 16th March 2020 containing drugs that are currently used for treatment: remdesivir, lopinavir, ritonavir, baricitinib, ribavirin, chloroquine and others and protein targets such as 3CLpro, PLpro, RdRp, S protein, TMPRSS2, ACE2, AT2 as well as siRNAs Targeting Replicase and RNA Polymerases with associated sequences and references "Research and Development on Therapeutic Agents and Vaccines for COVID-19 and Related Human Coronavirus Diseases"   https://pubs.acs.org/doi/10.1021/acscentsci.0c00272 
 
+* Review article that contains drugs prodrugs, host-based anti-CoV treatment options as well as nucleic acid synthesis inhibitors. (JAN 2020) "Recent discovery and development of inhibitors targeting coronaviruses" https://www.sciencedirect.com/science/article/pii/S1359644620300416 
 
+* WHO Landscape analysis of 30 therapeutics as of 17 February 2020, for SARS, COVID-19, MERS-CoV and others covering also clinical trials (Phase 1 and Phase 2)
+https://www.who.int/blueprint/priority-diseases/key-action/Table_of_therapeutics_Appendix_17022020.pdf (edited) 
+
+* Therapeutics, Ongoing vaccine development for 2019-nCoV and completed vaccine trial of SARS-CoV and MERS-CoV
+"Potential Rapid Diagnostics, Vaccine and Therapeutics for 2019 Novel Coronavirus (2019-nCoV): A Systematic Review"
+https://www.mdpi.com/2077-0383/9/3/623/pdf
