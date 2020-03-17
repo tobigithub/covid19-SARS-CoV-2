@@ -22,7 +22,9 @@ There are several PCR based detection techniques available.
 
 <B>Treatments and drugs available</B>  
 There are several drugs that are recommended by the CDC (US) that can be used for current and immediate treatment of specific viral infectionns,  including SARS and COVID. They include remdesivir, lopinavir and ritonavir. Other drugs include antiretorvirals such as Ribavirin. However they do only work in specific cases and  for specific strains.
-* Sciencemag aritcle on UC Davis Medical Center (Sacramento) treatment by Dr. George Thompson treating a patient sucesfully with  remdesivir intravenously administered (https://www.sciencemag.org/news/2020/03/did-experimental-drug-help-us-coronavirus-patient)
+
+* Sciencemag aritcle on UC Davis Medical Center (Sacramento) treatment by Dr. George Thompson treating a patient sucesfully with  remdesivir intravenously administered (https://www.sciencemag.org/news/2020/03/did-experimental-drug-help-us-coronavirus-patient)  
+* CAS review article on key proteins, targets and drugs [[Review]](https://pubs.acs.org/doi/pdf/10.1021/acscentsci.0c00272) - Research and Development on Therapeutic Agents and Vaccines for COVID-19 and Related Human Coronavirus Diseases (March 12 2020)
 
 <B>Future drugs</B>  
 There are a number of expermimental drugs and future drugs available such as DNA based medication including INO-4800 and RNA based drugs such as mRNA-1273. Companies include Medicago, Johnson & Johnson. CureVac as well as INOVIO Pharmaceuticals.
