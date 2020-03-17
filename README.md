@@ -29,7 +29,7 @@ There are several drugs that are recommended by the CDC (US) that can be used fo
 <B>Future drugs</B>  
 There are a number of expermimental drugs and future drugs available such as DNA based medication including INO-4800 and RNA based drugs such as mRNA-1273. Companies include Medicago, Johnson & Johnson. CureVac as well as INOVIO Pharmaceuticals.
 
-* Medicago (https://www.thepharmaletter.com/article/medicago-claims-to-have-a-viable-vaccine-candidate-for-covid-19)
+* Medicago (https://www.medicago.com/en/newsroom/)
 * CureVac (https://www.curevac.com/)
 
 <B>WHO responses</B> 
