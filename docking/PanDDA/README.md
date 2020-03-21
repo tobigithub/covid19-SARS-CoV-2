@@ -1,9 +1,9 @@
-PanDDA (2020)
+<B>PanDDA (2020)</B>  
 
 <B>PanDDA analysis of COVID-19 main protease against the DSI-poised Fragment Library
 Fearon, D., Powell, A.J., Douangamath, A., Owen, C.D., Wild, C., Krojer, T., Lukacik, P., Strain-Damerell, C.M., Walsh, M.A., von Delft, F.</B>
 
-* Links:
+* Links:  
 https://www.rcsb.org/structure/5R7Y  
 https://www.rcsb.org/structure/5R7Z  
 https://www.rcsb.org/structure/5R80  
