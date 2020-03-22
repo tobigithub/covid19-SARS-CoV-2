@@ -26,6 +26,13 @@ intravenously or as proposed in the paper via nebulization directly into the lun
 
 
 ---
+SwissADME
+
+SwissADME : http://www.swissadme.ch/  
+use CC(C)(C)OC(=O)NC1=CC=CN([C@@H](CC2CC2)C(=O)N[C@@H](C[C@@H]2CCNC2=O)C(=O)C(=O)NCC2=CC=CC=C2)C1=O
+
+SwissTarget: http://www.swisstargetprediction.ch/result.php?job=543866034&organism=Homo_sapiens
+
 
 Crystal structure of SARS-CoV-2 main protease provides a basis for design of
 improved a-ketoamide inhibitors
