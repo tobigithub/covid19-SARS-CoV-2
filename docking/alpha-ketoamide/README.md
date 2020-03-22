@@ -55,4 +55,5 @@ Similar PDBs (95-100%): 5R82,6Y84,5R7Y,6Y2E,5R83,5R7Z,6Y2F,5R81,5R84,6M03,5R80,6
 
 Ligands
 
-[Picture](url)
+[Picture](https://raw.githubusercontent.com/tobigithub/covid19-SARS-CoV-2/master/docking/alpha-ketoamide/alpha-ketoamide-ligands.PNG)
+
