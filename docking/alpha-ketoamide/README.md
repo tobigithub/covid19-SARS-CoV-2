@@ -49,7 +49,7 @@ PDB 6Y2E (unliganded Mpro)
 PDB 6Y2F (complex with 13b in space group C2)   
 PDB 6Y2G (complex with 13b in space group P212121)  
 
-Similar PDBs (95-100%): 5R82,6Y84,5R7Y,6Y2E,5R83,5R7Z,6Y2F,5R81,5R84,6M03,5R80,6Y2G,6LU7  
+Similar PDBs (95-100%) [PDB LINK](http://www.rcsb.org/pdb/results/results.do?tabtoshow=Current&qrid=1B5BD003): 5R82,6Y84,5R7Y,6Y2E,5R83,5R7Z,6Y2F,5R81,5R84,6M03,5R80,6Y2G,6LU7  
 
 ---
 
