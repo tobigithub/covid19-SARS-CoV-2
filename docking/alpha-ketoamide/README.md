@@ -24,15 +24,7 @@ with the docking pockets. One problem with tBOC groups is of course hydrolysis (
 in case of oral delivery, therefore it may never be an oral drug, but has to be administered
 intravenously or as proposed in the paper via nebulization directly into the lungs. 
 
-
 ---
-SwissADME
-
-SwissADME : http://www.swissadme.ch/  
-use CC(C)(C)OC(=O)NC1=CC=CN([C@@H](CC2CC2)C(=O)N[C@@H](C[C@@H]2CCNC2=O)C(=O)C(=O)NCC2=CC=CC=C2)C1=O
-
-SwissTarget: http://www.swisstargetprediction.ch/result.php?job=543866034&organism=Homo_sapiens
-
 
 Crystal structure of SARS-CoV-2 main protease provides a basis for design of
 improved a-ketoamide inhibitors
@@ -62,4 +54,15 @@ Similar PDBs (95-100%) [PDB LINK](http://www.rcsb.org/pdb/results/results.do?tab
 
 Ligands
 ![Ligand picture](https://raw.githubusercontent.com/tobigithub/covid19-SARS-CoV-2/master/docking/alpha-ketoamide/alpha-ketoamide-ligands.PNG)
+
+---
+
+---
+SwissADME
+
+SwissADME : http://www.swissadme.ch/  
+use > CC(C)(C)OC(=O)NC1=CC=CN([C@@H](CC2CC2)C(=O)N[C@@H](C[C@@H]2CCNC2=O)C(=O)C(=O)NCC2=CC=CC=C2)C1=O
+
+SwissTarget: http://www.swisstargetprediction.ch/result.php?job=543866034&organism=Homo_sapiens
+
 
