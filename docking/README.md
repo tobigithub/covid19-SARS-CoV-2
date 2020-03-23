@@ -1,4 +1,4 @@
-<Docking and computing HPC support /B>
+<B>Docking and computing HPC support </B>
   
 https://covid19-hpc.mybluemix.net/
 
