@@ -65,5 +65,5 @@ use > CC(C)(C)OC(=O)NC1=CC=CN([C@@H](CC2CC2)C(=O)N[C@@H](C[C@@H]2CCNC2=O)C(=O)C(
 
 SwissTarget: http://www.swisstargetprediction.ch/result.php?job=543866034&organism=Homo_sapiens
 
-![SwissADME](https://github.com/tobigithub/covid19-SARS-CoV-2/blob/master/docking/alpha-ketoamide/SwissADME-13b.PNG
+![SwissADME](https://github.com/tobigithub/covid19-SARS-CoV-2/blob/master/docking/alpha-ketoamide/SwissADME-13b.PNG)
 
