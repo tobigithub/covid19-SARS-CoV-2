@@ -11,8 +11,10 @@ https://www.vls3d.com/index.php/links/chemoinformatics/virtual-screening/structu
 
 ---
 
-<B>Docked PDB:6Y2G with ligand 13b</B>
+<B>Crystal structure of PDB:6Y2G with bound ligand 13b</B>
 
 ![Ligand picture](https://github.com/tobigithub/covid19-SARS-CoV-2/blob/master/docking/alpha-ketoamide/PDB6Y2G-ligand-13b-dock.PNG)
+
+<I>Source: https://science.sciencemag.org/content/early/2020/03/20/science.abb3405</I>
 
 ---
