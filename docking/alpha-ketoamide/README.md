@@ -57,6 +57,11 @@ Ligands
 
 ---
 
+Docked PDB:6Y2G with ligand 13b
+
+![Ligand picture](https://github.com/tobigithub/covid19-SARS-CoV-2/blob/master/docking/alpha-ketoamide/PDB6Y2G-ligand-13b-dock.PNG)
+
+---
 
 SwissADME
 
