@@ -43,7 +43,7 @@ Supplement 2: https://pubs.acs.org/doi/suppl/10.1021/acs.jmedchem.9b01828/suppl_
 
 ---
 
-Crystal structures:  
+<B>Crystal structures:</B>  
 PDB [[6Y2E]](https://www.rcsb.org/structure/6y2e) (unliganded Mpro)  
 PDB [[6Y2F]](https://www.rcsb.org/structure/6Y2F) (complex with 13b in space group C2)   
 PDB [[6Y2G]](https://www.rcsb.org/structure/6Y2G) (complex with 13b in space group P212121)  
