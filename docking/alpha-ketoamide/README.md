@@ -52,18 +52,18 @@ Similar PDBs (95-100%) [PDB LINK](http://www.rcsb.org/pdb/): 5R82,6Y84,5R7Y,6Y2E
 
 ---
 
-Ligands
+<B>Ligands</B>
 ![Ligand picture](https://raw.githubusercontent.com/tobigithub/covid19-SARS-CoV-2/master/docking/alpha-ketoamide/alpha-ketoamide-ligands.PNG)
 
 ---
 
-Docked PDB:6Y2G with ligand 13b
+<B>Docked PDB:6Y2G with ligand 13b</B>
 
 ![Ligand picture](https://github.com/tobigithub/covid19-SARS-CoV-2/blob/master/docking/alpha-ketoamide/PDB6Y2G-ligand-13b-dock.PNG)
 
 ---
 
-SwissADME
+<B>SwissADME</B>
 
 SwissADME : http://www.swissadme.ch/  
 use > CC(C)(C)OC(=O)NC1=CC=CN([C@@H](CC2CC2)C(=O)N[C@@H](C[C@@H]2CCNC2=O)C(=O)C(=O)NCC2=CC=CC=C2)C1=O
