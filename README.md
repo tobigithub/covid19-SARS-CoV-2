@@ -6,6 +6,7 @@ Maps show the global distrributions, infection rates, death rates per country ou
 * COVID19 Live Interactive Dashboard (https://datastudio.google.com/embed/reporting/f56febd8-5c42-4191-bcea-87a3396f4508/page/k1XIB) - Google Data Studio map probably the most sophisticated map around in early March 2020, created by a single citizen scientist (Goh Kok Han, hi@gohkokhan.com), shows the failure of public organizaions across the world to activate data scientists on the spot to deal with emerging threats
 * Johns Hopkins (https://coronavirus.jhu.edu/map.html) - one of the earlier interactive maps by a private US entity
 * WHO Map (https://who.maps.arcgis.com/apps/opsdashboard/index.html#/c88e37cfc43b4ed3baf977d77e4a0667) - WHO map covering the novel coronavirus (COVID-19) situation
+* IBM News Explorer (http://news-explorer.mybluemix.net/?query=COVID-19&type=person) - map collecting COVID-19 news sources.
 
 <B>Coronavirus Surface surivival time</B>  
 How long does the coronavirus survive on air, plastics, steel and other surfaces (up to 24 hours on cardboard to up to two or three days on plastic and stainless steel)
