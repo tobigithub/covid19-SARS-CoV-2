@@ -57,13 +57,13 @@ Similar PDBs (95-100%) [PDB LINK](http://www.rcsb.org/pdb/): 5R82,6Y84,5R7Y,6Y2E
 
 ---
 
-<B>Docked PDB:6Y2G with ligand 13b</B>
+<B>Docked PDB:6Y2G with ligand 13b interactions and bonds</B>
 
 ![Ligand picture](https://github.com/tobigithub/covid19-SARS-CoV-2/blob/master/docking/alpha-ketoamide/6Y2F-13b-dock-interactions.PNG)
 
 ---
 
-<B>Docked PDB:6Y2G with ligand 13b interactions and bonds</B>
+<B>Docked PDB:6Y2G with ligand 13b</B>
 
 ![Ligand picture](https://github.com/tobigithub/covid19-SARS-CoV-2/blob/master/docking/alpha-ketoamide/PDB6Y2G-ligand-13b-dock.PNG)
 
