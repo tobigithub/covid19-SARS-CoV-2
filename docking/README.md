@@ -1,6 +1,6 @@
 <B>The covid19-SARS-CoV-2 Docking repository </B>
 
-Currently covered:
+Currently covered are ligands and receptors related to:
 * alpha ketoamide inihibitors
 * spike protein inhibitors (sweetlead)
 * PanDDA library targets
