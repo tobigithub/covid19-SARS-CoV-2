@@ -1,3 +1,12 @@
+<B>The covid19-SARS-CoV-2 Docking repository </B>
+
+Currently covered:
+* alpha ketoamide inihibitors
+* spike protein inhibitors (sweetlead)
+* PanDDA library targets
+
+---
+
 <B>Docking and computing HPC support during Covid-19 </B>
   
 https://covid19-hpc.mybluemix.net/
