@@ -23,7 +23,7 @@ https://www.vls3d.com/index.php/links/chemoinformatics/virtual-screening/structu
 <B>XChem UK  Diamond Light Source initiative</B>  
 
 Contribute your expertise to design inhibitors of the SARS-CoV-2 main protease  
-https://covid.postera.ai/covid
+https://covid.postera.ai/covid and https://github.com/foldingathome/covid-moonshot  
 
 ---
 
