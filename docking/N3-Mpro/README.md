@@ -12,13 +12,12 @@ Source: https://doi.org/10.1038/s41586-020-2223-y
 ---
 
 <B>Ligand</B>  
-An inhibitor that interferes with the action of SARS abd SARS-CoV-2 coronavirus main proteinase (Mpro)
+An inhibitor that interferes with the action of SARS abd SARS-CoV-2 coronavirus main proteinase (Mpro)  
+Link: https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:39900  
 
 <p align="center">
   <img width="" height="" src="https://github.com/tobigithub/covid19-SARS-CoV-2/blob/master/docking/N3-Mpro/N3-ligand.png">
 </p>
-
-Link: https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:39900
 
 ---
 
