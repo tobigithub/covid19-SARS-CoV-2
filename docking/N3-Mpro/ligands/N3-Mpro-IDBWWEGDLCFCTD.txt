@@ -1,0 +1,4 @@
+InChIKey=IDBWWEGDLCFCTD-FAOZMNRANA-N
+https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:39900
+Bronsted base
+inhibitor that interferes with the action of SARS coronavirus main proteinase
