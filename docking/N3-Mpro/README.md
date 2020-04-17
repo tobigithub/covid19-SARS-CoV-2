@@ -24,6 +24,6 @@ Link: https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:39900
 <B>Protein</B>  
 PDB [6LU7](https://www.rcsb.org/structure/6LU7) : COVID-19 virus Mpro in complex with the inhibitor N3 (X-RAY DIFFRACTION 2.16 Å)  
 PDB [7BQY](https://www.rcsb.org/structure/7BQY) : COVID-19 virus Mpro in complex with the inhibitor N3 (X-RAY DIFFRACTION 1.70 Å)  
-PDB [6M03](https://www.rcsb.org/structure/6M03) : The crystal structure of COVID-19 main protease in apo form (2.00 Å)  
+PDB [6M03](https://www.rcsb.org/structure/6M03) : The crystal structure of COVID-19 main protease in apo form (no ligand bound) (2.00 Å)  
 
 ---
