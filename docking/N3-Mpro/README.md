@@ -27,3 +27,9 @@ PDB [7BQY](https://www.rcsb.org/structure/7BQY) : COVID-19 virus Mpro in complex
 PDB [6M03](https://www.rcsb.org/structure/6M03) : The crystal structure of COVID-19 main protease in apo form (no ligand bound) (2.00 Å)  
 
 ---
+<B>Inibitor N3 docked in SARS-CoV-2 main protease 6LU7</B> 
+<p align="center">
+  <img width="" height="" src="https://github.com/tobigithub/covid19-SARS-CoV-2/blob/master/docking/N3-Mpro/ligands/6lu7-N3-pocket-interactions.png">
+</p>
+
+Figure with Biovia Discovery Studio Visualizer [LINK](https://www.3dsbiovia.com/products/collaborative-science/biovia-discovery-studio/visualization.html)
