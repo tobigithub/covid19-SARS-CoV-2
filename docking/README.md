@@ -4,7 +4,8 @@ Currently covered are ligands and receptors related to:
 * alpha ketoamide inihibitors
 * spike protein inhibitors (sweetlead)
 * PanDDA library targets
-* N3-Mpro
+* N3-Mpro main protease
+* ligands-global (a collection of SARS and SARS-Cov-2 inhibitors)
 ---
 
 <B>Docking and computing HPC support during Covid-19 </B>
